@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
 :root{
-    --bgColor: #333;
-    --textPrimary: #fff;
-    --textSecondary: #666;
-    --primaryColor: rgb(68, 255, 168);
+    --bgColor: hsl(0, 14%, 75%);
+    --textPrimary: #1b1919;
+    --textSecondary: #402e2e;
+    --primaryColor: rgb(89, 226, 162);
 }
 body{
     font-family: "Gill Sans", sans-serif;
