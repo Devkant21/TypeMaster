@@ -1,6 +1,6 @@
 const words = 'Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them. We know what we are, but know not what we may be. Sweet are the uses of adversity which, like the toad, ugly and venomous, wears yet a precious jewel in his head. Our doubts are traitors and make us lose the good we oft might win by fearing to attempt.'.split(' ');
 const wordsCount = words.length;
-const gameTime = 30 * 1000;
+const gameTime = 50 * 1000;
 window.timer = null;
 window.gameStart = null;
 window.pauseTime = 0;
