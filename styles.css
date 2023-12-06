@@ -3,7 +3,7 @@
     --bgColor: hsl(0, 14%, 75%);
     --textPrimary: #1b1919;
     --textSecondary: #402e2e;
-    --primaryColor: rgb(89, 226, 162);
+    --primaryColor: rgb(64, 72, 68);
 }
 body{
     font-family: "Gill Sans", sans-serif;
@@ -96,7 +96,7 @@ div.word{
     position: fixed;
     top: 198px;
     left: 18px;
-    animation: blink .3s infinite;
+    animation: blink .2s infinite;
 }
 #game:focus #cursor{
     display: block;
